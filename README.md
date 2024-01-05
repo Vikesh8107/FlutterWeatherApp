@@ -13,7 +13,7 @@ To run this project, ensure that you have Flutter installed on your machine. If 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/forecast_app.git
+   git clone https://github.com/Vikesh8107/FlutterWeatherApp.git
    ```
 
 2. Navigate to the project directory:
