@@ -19,7 +19,7 @@ To run this project, ensure that you have Flutter installed on your machine. If 
 2. Navigate to the project directory:
 
    ```bash
-   cd forecast_app
+   cd FlutterWeatherApp
    ```
 
 3. Install dependencies:
