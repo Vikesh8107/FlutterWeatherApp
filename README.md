@@ -44,7 +44,7 @@ The app uses the http package to simulate API requests. The API endpoint is a mo
 
 ### UI Design
 
-The UI displays weather details for the present day and the next 5 days. It includes temperature, condition, humidity, and other relevant information. A loading indicator is shown while fetching data, and error messages are displayed for unsuccessful API requests or invalid responses.
+The UI displays weather details for the present day and the next 7 days. It includes temperature, condition, humidity, and other relevant information. A loading indicator is shown while fetching data, and error messages are displayed for unsuccessful API requests or invalid responses.
 
 
 ## Additional Notes
