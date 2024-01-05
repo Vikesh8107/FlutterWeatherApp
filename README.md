@@ -48,13 +48,16 @@ The UI displays weather details for the present day and the next 7 days. It incl
 
 ## Demo 
 
-![Image 1](assets/image1.jpg)
-![Image 1](images/image1.jpg)
-![Image 1](images/image1.jpg)
-![Image 1](images/image1.jpg)
-![Image 1](images/image1.jpg)
-![Image 1](images/image1.jpg)
-![Image 1](images/image1.jpg)
+<img src="assets/1.jpeg" alt="Image 1" width="200" />
+<img src="assets/2.jpg" alt="Image 2" width="200" />
+<img src="assets/3.jpg" alt="Image 3" width="200" />
+<img src="assets/4.jpg" alt="Image 4" width="200" />
+<img src="assets/5.jpg" alt="Image 5" width="200" />
+
+### Animated GIF
+
+![Animated GIF](assets/gif.gif)
+
 
 
 
